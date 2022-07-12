@@ -25,7 +25,7 @@ public class Ashottest {
 				.takeScreenshot(driver);
 				
 
-		ImageIO.write(s.getImage(), "jpg", new File("D:\\ElementScreenshot.png"));
+		ImageIO.write(s.getImage(), "jpg", new File("D:\\ElementScreenshot.jpeg"));
 
 
 		
